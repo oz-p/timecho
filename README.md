@@ -17,11 +17,11 @@ This will create the following endpoint (showing default configuration):
 
 http://localhost:8080/echoAtTime/
 
-Which can takes two parameters (time,message), in example:
+Which takes two parameters (time,message), in example:
 ```
 curl -i 'http://localhost:8080/echoAtTime/?time=2017-10-01+19:43:12&message=Hello+world'
 ```
-The result is a JSON object, in example: 
+The result is a JSON object: 
 ```
 {
   "error":0
