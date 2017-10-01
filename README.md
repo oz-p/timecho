@@ -1,6 +1,6 @@
 # timecho
 
-A REST endpoint that define a message to be printed at a given time in the future to the server console
+A REST endpoint that defines a message to be printed at a given time in the future to the server console
 
 # Usage
 
